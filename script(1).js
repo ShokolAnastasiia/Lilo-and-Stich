@@ -82,4 +82,7 @@ get_info_btn.addEventListener('click', function() {
         Стать: ${info_card.holder.gender}`)
 })
 
+function showMessage() {
+     alert("Вибачте ми не зможемо надіслати вам замовлення бо це тестова версія!");
+}
 
